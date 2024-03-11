@@ -1,5 +1,43 @@
 body {
+  
+  header {
+  text-align: center;
+}
   width: 100%;
   height: 100%;
   margin: 0;
+}
+.container {
+  text-align: center; 
+}
+
+.container img {
+  display: block; 
+  margin: 0 auto; 
+}
+.navbar a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: grey;
+}
+.contact {
+  display: block;
+}
+.correspondence {
+  display: block;
+}
+.links {
+  display: block;
+}
+.follow {
+  display: block;
+}
+#details {
+  display: inline;
+}
+.lorem {
+  text-align: center;
+}
+.ipsum {
+  text-align: center;
 }
